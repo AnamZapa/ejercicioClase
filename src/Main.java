@@ -8,6 +8,7 @@ public class Main {
         double salarioBruto, salarioNeto, valorHora, valorTotal, cantidadHoras, salarioMinimo;
         double bonificacion, deduccionSalud, deduccionPension, auxilioTransporte;
         double horasExtras, valorhorasExtras, fondosolidaridadPensional, retencionFuente;
+        
 
         System.out.print("Ingrese el nombre del empleado: ");
         nombreEmpleado = sc.nextLine();
